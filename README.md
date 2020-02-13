@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-* Udacity Nanodegree: Intro to Programming
+Udacity Nanodegree: Intro to Programming
 
 ## Project summary
 Using Python to build a program that plays the game of Rock paper Scissors. 
